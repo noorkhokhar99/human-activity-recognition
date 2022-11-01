@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ```
 - Run the code with mentioned command below.
 ```
-#if you want to change source file
+# if you want to run source file
  python human_activity_recognition.py --model resnet-34_kinetics.onnx --classes action_recognition_kinetics.txt --input videos/example_activities.mp4 --gpu 1 --output output.mp4
  
  python human_activity_recognition.py --model resnet-34_kinetics.onnx --classes action_recognition_kinetics.txt
