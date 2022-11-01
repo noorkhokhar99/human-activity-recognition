@@ -39,7 +39,11 @@ pip install -r requirements.txt
 ### Results
 
 
-<img src="https://github.com/noorkhokhar99/Banana-Ripeness-Detection/blob/main/Screen%20Shot%201444-04-06%20at%2011.12.44%20AM.png">
+<img src="https://github.com/noorkhokhar99/human-activity-recognition/blob/main/Screen%20Shot%201444-04-07%20at%202.03.38%20AM.png">
 
+<img src="https://github.com/noorkhokhar99/human-activity-recognition/blob/main/Screen%20Shot%201444-04-07%20at%202.03.33%20AM.png">
+
+<img src="https://github.com/noorkhokhar99/human-activity-recognition/blob/main/Screen%20Shot%201444-04-07%20at%202.03.15%20AM.png">
+<img src="https://github.com/noorkhokhar99/human-activity-recognition/blob/main/Screen%20Shot%201444-04-07%20at%202.02.48%20AM.png">
 
 
